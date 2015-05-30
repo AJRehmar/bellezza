@@ -15,3 +15,4 @@
 * run bower install on server to download packages
 * update IP address in namecheap
 * pop champagne, your done! 
+bellezza
